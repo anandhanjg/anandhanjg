@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anandhanjg
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me anandhan14phy02@gmail.com
 
